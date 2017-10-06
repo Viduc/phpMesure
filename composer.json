@@ -1,0 +1,19 @@
+{
+    "name": "viduc/phpmesure",
+    "description": "client phpMesure",
+    "type": "library",
+    "license": "GPl v3",
+    "keywords": ["phpMesure","metric"],
+    "tags": ["1.0.0"],
+    "authors": [
+        {"name": "Tristan Fleury", "homepage": ""}
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
